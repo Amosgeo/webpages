@@ -1,0 +1,22 @@
+
+section.buy, article {
+    width: 625px;
+    margin-right: 10px;
+    float: left;
+}
+
+article h1 {
+    font-size: 110%;
+    margin-top: 12pt;
+    margin-bottom: 0;
+    padding-top: 3pt;
+    border-top: 4px solid #a60;
+}
+
+article p {
+    font-family: tahoma, sans-serif;
+}
+
+article mark {
+    background-color: #fd0;
+}
